@@ -11,7 +11,7 @@ const Services = () => {
             <div className="container lg:pt-5">
                 <div className="text-center">
                     <h2 className="text-headingColor font-[800] text-[2.4rem] mb-5">
-                        services 
+                        Services 
                     </h2>
                     <p className="lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[16px] leading-7">
                          I deliver quality products with effective communication and strong time management skills. Explore how my expertise can benefit your projects

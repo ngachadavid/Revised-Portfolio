@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="sm:flex items-center justify-between md:gap-8 ">
                 <div className="w-full sm:w-1/2">
                     <h2 className="text-[26px] leading-10 text-white font-[600] mb-5 md:text-[2rem]">
-                        Do you want to make beautifull products?
+                        Do you want to make beautiful products?
                     </h2>
                     <a
                        href="#contact">
@@ -33,25 +33,25 @@ const Footer = () => {
                         </span>
 
                         <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1  rounded-[50px] cursor-pointer text-center">
-                            <a href="https://github.com/abdishukri-105"  target='_blank' className="text-gray-300 font-[500] text-[18px]">
+                            <a href="https://github.com/ngachadavid"  target='_blank' className="text-gray-300 font-[500] text-[18px]">
                                 <i class="ri-github-line"></i>
                             </a>
                         </span>
 
                         <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1  rounded-[50px] cursor-pointer text-center">
-                            <a href="https://www.linkedin.com/in/abdishukri-mohamed/"   target='_blank' className="text-gray-300 font-[500] text-[18px]">
+                            <a href="https://www.linkedin.com/in/david-mwangi01/"   target='_blank' className="text-gray-300 font-[500] text-[18px]">
                                <i class="ri-linkedin-line"></i>
                             </a>
                         </span>
 
                         <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1  rounded-[50px] cursor-pointer text-center">
-                            <a href="https://twitter.com/AbdishukriMoh18"  target='_blank' className="text-gray-300 font-[500] text-[18px]">
+                            <a href="https://twitter.com/dangsinatra"  target='_blank' className="text-gray-300 font-[500] text-[18px]">
                                <i class="ri-twitter-line"></i>
                             </a>
                         </span>
 
                         <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1  rounded-[50px] cursor-pointer text-center">
-                            <a href="https://www.instagram.com/__abdishukri_/"  target='_blank' className="text-gray-300 font-[500] text-[18px]">
+                            <a href="https://www.instagram.com/almostngacha/"  target='_blank' className="text-gray-300 font-[500] text-[18px]">
                                <i class="ri-instagram-line"></i>
                             </a>
                         </span>
@@ -90,13 +90,13 @@ const Footer = () => {
                         <div className="flex items-center gap-[10px]">
                            <span className="w-[35px] h-[35px] rounded-full bg-[#2b2d33] text-white font-[500] text-[18px] flex items-center justify-center ">AM</span>
                            <div className="leading-[20px] ">
-                             <h2 className="text-gray-200 font-[500] text-[18px]">Abdishukri</h2>
-                             <p className="text-gray-400 text-[14px] font-[500]">Mohamed</p>
+                             <h2 className="text-gray-200 font-[500] text-[18px]">David</h2>
+                             <p className="text-gray-400 text-[14px] font-[500]">Mwangi</p>
                             </div>
                         </div>
                     </div>
 
-                    <div className="text-gray-400 text-[14px]">    &copy; 2023:  Abdishukri Mohamed</div>
+                    <div className="text-gray-400 text-[14px]">    &copy; 2023:  David Mwangi</div>
                 </div>
             </div>
         </div>
