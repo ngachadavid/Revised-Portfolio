@@ -1,5 +1,5 @@
-import portfolioImg01 from "../images/Beautybliss.png";
-import portfolioImg02 from "../images/HAHA-HUB.png";
+import portfolioImg01 from "../images/Moversapp.png";
+import portfolioImg02 from "../images/Beautybliss.png";
 import portfolioImg03 from "../images/read riot.png";
 import portfolioImg04 from "../images/article254.png";
 import portfolioImg05 from "../images/loops.jpg";
@@ -11,21 +11,21 @@ const portfolios = [
     id: "01",
     imgUrl: portfolioImg01,
     category: "Web Design",
-    title: "Beauty Bliss",
-    description:
-    " Beauty Bliss is an e-commerce beauty shop powered by Rails API and React. It offers a wide range of products, including skincare, makeup, and haircare. With an admin section for inventory management and order tracking, it ensures efficient operations. Beauty Bliss provides secure transactions and a personalized user experience for seamless shopping.",
+    title: "Movers App",
+    description: 
+    " The Movers App, an all in one platform that simplifies the moving process fronm start to finish",
     technologies: ["React", "Tailwind css", "Rails", "Postgresql"],
-    siteUrl: "https://beauty-bliss-ul2a.vercel.app/",
+    siteUrl: "https://moversapp.vercel.app/",
   },
   {
     id: "02",
     imgUrl: portfolioImg02,
-    category: "web design",
-    title: "Meme Generator",
+    category: "Web design",
+    title: "Beauty Bliss",
     description:
-      "Haha Hub is a web application that brings laughter to users by allowing them to create and view memes. It serves as a platform where people can go to have a good laugh. This Rails and React-based meme generator app was developed as a project during Moringa School. With a combination of React, Tailwind CSS, Rails, and SQLite, Haha Hub offers an entertaining and interactive experience for meme enthusiasts.",
+      " Beauty Bliss is an e-commerce beauty shop powered by Rails API and React. It offers a wide range of products, including skincare, makeup, and haircare. With an admin section for inventory management and order tracking, it ensures efficient operations. Beauty Bliss provides secure transactions and a personalized user experience for seamless shopping.",
     technologies: ["React", "Tailwind css", "Rails", "SQLite"],
-    siteUrl: "https://haha-hub.vercel.app/",
+    siteUrl: "https://beauty-bliss-ul2a.vercel.app/",
   },
   {
     id: "03",
