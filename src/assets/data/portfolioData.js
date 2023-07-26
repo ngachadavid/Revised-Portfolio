@@ -1,7 +1,7 @@
 import portfolioImg01 from "../images/Moversapp.png";
 import portfolioImg02 from "../images/Beautybliss.png";
 import portfolioImg03 from "../images/read riot.png";
-import portfolioImg04 from "../images/article254.png";
+import portfolioImg04 from "../images/Flatacuties.gif";
 import portfolioImg05 from "../images/loops.jpg";
 import portfolioImg06 from "../images/desktop-preview.jpg";
 import portfolioImg07 from "../images/portfolio-07.jpg";
@@ -41,11 +41,11 @@ const portfolios = [
     id: "04",
     imgUrl: portfolioImg04,
     category: "Web Design",
-    title: "blog page",
+    title: "Flatacuties Voting Page",
     description:
-      "The Blog Page is a web application that combines Ruby and React. It offers a user-friendly interface for sharing and reading articles. With features like categories, tags, comments, and analytics, it enhances the reading and writing experience. The application utilizes React and Tailwind CSS for a visually appealing design",
-    technologies: ["React", "Tailwind css", "Ruby", "SQLITE", "Sinatra"],
-    siteUrl: "https://article254.vercel.app/",
+      " An app for voting for the cutest animal using a local API.",
+    technologies: ["React"],
+    siteUrl: "https://flatacuties-rho.vercel.app/",
   },
   // {
   //   id: "05",
